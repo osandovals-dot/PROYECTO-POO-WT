@@ -1,4 +1,4 @@
-# Wallet Trainer – Plataforma de Gestión y Trading con Flask
+# Wallet Trainer
 
 Wallet Trainer es una aplicación web desarrollada con Flask que permite gestionar usuarios, activar y desactivar un bot de trading conectado a Firebase, consultar historial de operaciones, visualizar estadísticas de rendimiento y generar reportes. El proyecto utiliza una arquitectura basada en ViewModels para mantener una separación clara entre lógica y presentación.
 
